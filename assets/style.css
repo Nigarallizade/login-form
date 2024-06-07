@@ -1,0 +1,35 @@
+body form {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+body form {
+  border-style: hidden;
+  background-color: white;
+  width: 400px;
+  height: 50 px;
+}
+h2 label {
+  color: black;
+}
+input.login {
+  width: 300px;
+  height: 40px;
+}
+
+div input {
+  background-color: rgb(21, 144, 27);
+}
+div input {
+  color: white;
+}
+span {
+  color: white;
+}
+body {
+  background-color: rgb(0, 115, 255);
+}
+span a {
+  color: orange;
+}
